@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+    color: black;
+}
+
+h1{
+    color: darkviolet;
+    font-size: 35px;
+}
+
+p{
+    color: color-mix(in srgb, color percentage, color percentage);
+    font-size: 20px;
+}
+
