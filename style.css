@@ -20,3 +20,14 @@ header{
     padding: 20px;
 }
 
+.chama-texto{
+    margin: 3%;
+}
+
+section{
+    background-color: cadetblue;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
